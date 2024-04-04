@@ -1,2 +1,2 @@
 # blog_Post
-a website application
+A website application
